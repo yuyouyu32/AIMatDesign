@@ -19,8 +19,6 @@
 | **Slow RL convergence** | Progressive curriculum + TEP + AMR jointly speed up exploration and stabilise learning |
 | **Experimental validation** | Predicted Zr-based alloy achieved **1.7 GPa** yield strength & **10.2 %** elongation – within experimental error of the forecast |
 
----
-
 
 ---
 

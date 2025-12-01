@@ -1,5 +1,5 @@
 # AIMatDesign
-**Paper Title:** ***AIMatDesign: Knowledge-Augmented Reinforcement Learning for Inverse Materials Design under Data Scarcity***
+**Paper Title:** ***AIMatDesign: Knowledge-Augmented Reinforcement Learning for Inverse Materials Design under Data Scarcity (npj Computational Materials)***
 
 > **TL;DR** – AIMatDesign couples reinforcement learning with large language model (LLM) reasoning to **augment scarce experimental data**, **auto-refine unreliable surrogates**, and **inject expert knowledge** into the reward signal, enabling closed-loop discovery of high-performance bulk metallic glasses (BMGs) from a practically infinite composition space.
 

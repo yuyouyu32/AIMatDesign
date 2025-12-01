@@ -1,2 +1,4 @@
 .DS_store
 __pycache__
+logs/
+catboost_info

@@ -1,8 +1,16 @@
 
 
 echo "Start to train Cls..."
+#!/bin/bash
+cd /data/home/yeyongyu/SHU/ReinforceMatDesign/src
+nohup python -u -m MLs.cls_trainer > ../logs/cls_trainer.log 2>&1 & 
+# 获取第一个命令的进程 ID
+pid=$!
 
-sleep 3600
+# 等待第一个命令完成
+wait $pid
+
+sleep 20
 
 echo "Cls Train finished, start to train ML..."
 #!/bin/bash
